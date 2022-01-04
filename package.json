@@ -17,11 +17,8 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
-  }
-}
-
-{
+    "url": "https://github.com/SvitlanaBelinska/weather.git"
+  },
   "dependencies": {
     "axios": "^0.24.0"
   }
